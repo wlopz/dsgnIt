@@ -60,4 +60,6 @@ gem 'simple_form', '~> 3.2'
 
 gem 'devise', '~> 3.5', '>= 3.5.2'
 
+gem 'imagemagick-identify', '~> 0.0.1'
+
 gem 'paperclip', '~> 4.3', '>= 4.3.1'

@@ -62,4 +62,4 @@ gem 'paperclip', '~> 4.3', '>= 4.3.1'
 
 gem 'acts_as_votable', '~> 0.10.0'
 
-gem 'aws-sdk'
+gem 'aws-sdk', '< 2.0'

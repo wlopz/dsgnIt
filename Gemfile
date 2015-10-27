@@ -61,3 +61,5 @@ gem 'imagemagick-identify', '~> 0.0.1'
 gem 'paperclip', '~> 4.3', '>= 4.3.1'
 
 gem 'acts_as_votable', '~> 0.10.0'
+
+gem 'aws-sdk'

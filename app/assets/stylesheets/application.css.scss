@@ -18,6 +18,7 @@
 body {
 	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
+	background: grey;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -43,8 +44,8 @@ h1, h2, h3, h4, h5, h6 {
 	padding: .7rem 1.25rem;
 	border-radius: .3rem;
 	outline: none;
-	background: white;
-	color: #9B9B9B;
+	background: #000000;
+	color: #5877A6;
 }
 
 header {
@@ -67,7 +68,7 @@ header {
 		a {
 			margin-left: 1.5rem;
 			line-height: 2;
-			color: #9B9B9B;
+			color: #FFFFFF;
 			text-decoration: none;
 			&:hover {
 				color: #50A7C7;

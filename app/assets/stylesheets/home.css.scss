@@ -5,12 +5,12 @@
 	line-height: 1;
 	span {
 		font-size: 1.25rem;
-		color: #9B9B9B;
+		color: #FFFFFF;
 	}
 }
 #posts {
 	.post {
-		background: #F8F9FA;
+		background: #000000;
 		width: 30%;
 		float: left;
 		margin: 1rem 1.5%;
@@ -33,7 +33,7 @@
 				font-size: 1.25rem;
 				a {
 					text-decoration: none;
-					color: #333233;
+					color: #FFFFFF;
 					&:hover {
 						color: #50A7C7;
 					}
@@ -41,7 +41,7 @@
 			}
 			.data {
 				padding: .75rem 5%;
-				color: #969696;
+				color: #FFFFFF;
 				.username, .buttons {
 					margin: 0;
 					font-size: .8rem;

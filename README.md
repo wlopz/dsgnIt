@@ -1,0 +1,1 @@
+Website for designers to upload their images. Project was done using Ruby Rails with a gem devise authorization. When you log in, you are able to upload images, comment them, and like them. Also you can visit the designers website and support their work.
